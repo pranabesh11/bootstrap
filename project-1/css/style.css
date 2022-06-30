@@ -1,0 +1,15 @@
+.navbar-dark.navbar-nav.nav-link{
+    color: rgb(16, 12, 17) !important;
+    font-weight: 400;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+.carousel-item{
+    height: 89vh;
+    width: 100%;
+}
+*/
